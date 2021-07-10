@@ -10,3 +10,8 @@ sudo apt install -y wget && bash <(wget -qO- https://raw.githubusercontent.com/K
 
 # Support 
 If something does not work for you, please post on https://chromebook.community/d/6-linux-chrome-remote-desktop-troubleshooting and I will work with you to help. 
+
+# 
+```
+/opt/google/chrome-remote-desktop/chrome-remote-desktop --stop
+```
